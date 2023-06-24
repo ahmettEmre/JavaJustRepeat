@@ -8,5 +8,7 @@ public class C07_Odev {
         yas ve uzeri emekli olabilir. Cinsiyet ve yasini dikkate alarak “Emekli
         olabilirsin” veya “Emekli olmak icin .. Yil daha calisman gerekir” yazdirin.
          */
+
+        System.out.println("Orhanhan github ogreniyor");
     }
 }
