@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class C02_IfelseSoru {
     public static void main(String[] args) {
+
         /* kullanicidan bir tamsayi alin
            sayi negatif ise "negatif sayi",
            sayi rakam ise "girilen sayi rakam"
